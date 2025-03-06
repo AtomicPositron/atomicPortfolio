@@ -1,4 +1,4 @@
-<script lang="ts"></script>
+<script setup lang="ts"></script>
 <template>
   <div class="flex flex-col py-16 justify-center items-center">
     <h1 class="font-black text-5xl text-center text-white">My Projects</h1>
